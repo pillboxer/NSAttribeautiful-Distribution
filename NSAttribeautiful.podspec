@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "NSAttribeautiful-Distribution"
+  spec.name         = "NSAttribeautiful"
   spec.version      = "1.0.0"
   spec.summary      = "Attributed strings for the rest of us"
 
