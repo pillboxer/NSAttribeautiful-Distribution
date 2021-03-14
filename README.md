@@ -20,6 +20,8 @@ Then, run the following command:
 $ pod install
 ```
 
+Please ensure "Do Not Embed" is selected in your project's "Frameworks, Libraries and Embedded Content"
+
 ### Manually
 
 1. Clone or [download] the repo (https://github.com/pillboxer/NSAttribeautiful-Distribution/archive/master.zip)
