@@ -58,8 +58,15 @@ Please ensure "Do Not Embed" is selected in your project's "Frameworks, Librarie
 6. You can also add an optional _SpacingGroup_ at the end of your _GroupContainer_. This is will adjust the spacing between lines in your document. Omitting the _SpacingGroup_ will use the default `lineSpacing` of zero.
 
 <p align="center">
-  <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green][spacing:10]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
+  <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
   <img src="/Assets/formatted2.png" />
+</p>
+
+**VS**
+
+<p align="center">
+  <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green][spacing:10]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
+  <img src="/Assets/formatted3.png" />
 </p>
 
 ## Considerations
