@@ -1,6 +1,24 @@
+![CocoaPods Compatible](https://img.shields.io/cocoapods/v/NSAttribeautiful.svg)
+
 # NSAttribeautiful
 
 NSAttribeautiful is an iOS and MacOS framework that provides an easy way of using multiple styles (fonts, sizes and colors) in one string
+
+## Installation
+
+### CocoaPods
+
+To integrate InstabNSAttribeautifulug into your Xcode project using [CocoaPods](https://cocoapods.org), add it to your `Podfile`:
+
+```ruby
+pod 'NSAttribeautiful'
+```
+
+Then, run the following command:
+
+```bash
+$ pod install
+```
 
 ## How It Works
 
