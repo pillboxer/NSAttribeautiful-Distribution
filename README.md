@@ -63,8 +63,8 @@ Please ensure "Do Not Embed" is selected in your project's "Frameworks, Librarie
   </p>
 
   <p align="center">
-   <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green][spacing:10]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
-  <img src="/Assets/formatted3.png" />
+  <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green][spacing:10]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
+  <img src="/Assets/formatted3.png"/>
   </p>
 
 ## Considerations
