@@ -24,7 +24,7 @@ Please ensure "Do Not Embed" is selected in your project's "Frameworks, Librarie
 
 ### Manually
 
-1. Clone or [download] the repo (https://github.com/pillboxer/NSAttribeautiful-Distribution/archive/master.zip)
+1. Clone or [download](https://github.com/pillboxer/NSAttribeautiful-Distribution/archive/master.zip) the repo 
 
 2. Extract it then drag & drop NSAttribeautiful.xcframework to your project's "Frameworks, Libraries and Embedded Content"
 
