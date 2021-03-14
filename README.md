@@ -20,6 +20,8 @@ Then, run the following command:
 $ pod install
 ```
 
+Please ensure "Do Not Embed" is selected in your project's "Frameworks, Libraries and Embedded Content"
+
 ### Manually
 
 1. Clone or [download] the repo (https://github.com/pillboxer/NSAttribeautiful-Distribution/archive/master.zip)
@@ -50,8 +52,20 @@ $ pod install
 
 <p align="center">
   <code>≤[Copperplate:18:blue][Arial:18:red]≥ Here is my ≤document≥ that ≤needs≥ to be ≤formatted≥ ≤[0,0,1]≥</code>
-  <img src="/Assets/formatted1.png" />
+  <img src="/Assets/formatted1.png"/>
 </p>
+
+6. You can also add an optional _SpacingGroup_ at the end of your _GroupContainer_. This is will adjust the spacing between lines in your document. Omitting the _SpacingGroup_ will use the default `lineSpacing` of zero. Contrast the two documents below:
+
+  <p align="center">
+  <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
+  <img src="/Assets/formatted2.png"/>
+  </p>
+
+  <p align="center">
+   <code>≤[Copperplate:18:blue][Arial:18:red][Avenir:18:green][spacing:10]≥ ≤First line≥\n≤Second line≥\n≤Third line≥</code>
+  <img src="/Assets/formatted3.png" />
+  </p>
 
 ## Considerations
 
