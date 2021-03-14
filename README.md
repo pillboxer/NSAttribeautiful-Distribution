@@ -8,7 +8,7 @@ NSAttribeautiful is an iOS and MacOS framework that provides an easy way of usin
 
 ### CocoaPods
 
-To integrate InstabNSAttribeautifulug into your Xcode project using [CocoaPods](https://cocoapods.org), add it to your `Podfile`:
+To integrate SAttribeautiful into your Xcode project using [CocoaPods](https://cocoapods.org), add it to your `Podfile`:
 
 ```ruby
 pod 'NSAttribeautiful'
