@@ -20,6 +20,13 @@ Then, run the following command:
 $ pod install
 ```
 
+### Manually
+
+1. Clone or [download] the repo (https://github.com/pillboxer/NSAttribeautiful-Distribution/archive/master.zip)
+
+2. Extract it then drag & drop NSAttribeautiful.xcframework to your project's "Frameworks, Libraries and Embedded Content"
+
+
 ## How It Works
 
 1. Choose some text (a _document_) that requires multiple formatting styles.
