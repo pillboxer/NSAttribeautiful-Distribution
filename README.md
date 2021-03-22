@@ -101,6 +101,19 @@ do {
   catch let error {
     // Handle error
   }</code></pre>
+  
+### SwiftUI
+
+NSAttribeautiful provides a ready-made `UIViewRepresentable` that you can use to see your correctly formatted document using SwiftUI.
+
+<pre><code>
+   var body: some View {
+    VStack {
+      NSAttribeautiful(document: document)
+        .representable(alignment: .center)
+    }
+   }
+</code></pre>
 
 ## Debugging
 
